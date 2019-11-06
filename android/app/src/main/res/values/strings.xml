@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">diaryapp</string>
+	<string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">IDJNpMDQ5P1-pyUhyuACt5ZPTtkUa9c29ab1-afac-465c-8c39-de25206650b7</string>
+    <string name="app_name">模板</string>
 </resources>

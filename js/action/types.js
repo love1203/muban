@@ -1,0 +1,7 @@
+export default {
+    MAP_THEME:'MAP_THEME',
+    MAP_TRAFF:'MAP_TRAFF',
+    MAP_LOCATION:'MAP_LOCATION',
+    MAP_POI:'MAP_POI',
+    MAP_LOADING:'MAP_LOADING'
+}
