@@ -15,7 +15,7 @@
     "prop-types": "^15.7.2",
     "react": "16.9.0",
     "react-native": "0.61.4",
-    "react-native-code-push": "^5.7.0",
+    "react-native-code-push": "^7.0.5",
     "react-native-device-info": "^5.2.1",
     "react-native-easy-toast": "^1.2.0",
     "react-native-event-bus": "^1.0.0",
